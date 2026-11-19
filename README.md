@@ -133,11 +133,14 @@ The following features are potential improvements and are not currently implemen
 
 Screenshots can be added to `docs/screenshots/` to demonstrate the application's interface.
 
-### Task Dashboard
-
-### Task Statistics
-
 ### API Response
+
+![api-welcome](./docs/screenshots/api-welcome.png)
+![api-tasks](./docs/screenshots/api-tasks.png)
+
+### Simple Frontend to display API data
+
+![frontend](./docs/screenshots/frontend.png)
 
 ## Live Demo
 
