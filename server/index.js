@@ -9,7 +9,7 @@ dotenv.config();
 const app = express();
 app.use(
   cors({
-    origin: ["https://www.amalk.au", "http://localhost:5173"],
+    origin: ["https://amalk.au", "http://localhost:5173"],
   })
 );
 const port = process.env.PORT || 4000;
