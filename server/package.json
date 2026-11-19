@@ -14,14 +14,14 @@
   "author": "Amal K",
   "license": "ISC",
   "dependencies": {
-    "@prisma/client": "^6.19.0",
-    "cors": "^2.8.5",
-    "dotenv": "^17.2.3",
-    "express": "^5.1.0"
+    "@prisma/client": "^6.19.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.3.0"
   },
   "packageManager": "pnpm@10.21.0+sha512.da3337267e400fdd3d479a6c68079ac6db01d8ca4f67572083e722775a796788a7a9956613749e000fac20d424b594f7a791a5f4e2e13581c5ef947f26968a40",
   "devDependencies": {
-    "prisma": "^6.19.0",
+    "prisma": "^6.19.3",
     "ts-node": "^10.9.2"
   }
 }
